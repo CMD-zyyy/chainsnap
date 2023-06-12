@@ -12,7 +12,7 @@ Chainsnap is a project for maintaining blockchain snapshots. This project enable
  
   - Maintain the original download links of the snapshots and the metadata (CSV and JSON format) after preprocessing.
   - Each piece will be sent to storage providers in the Filecoin network through [Swan Client](https://github.com/filswan/go-swan-client), and the metadata of the deal (including filename, dealCID, MinerID, etc.) will be maintained in the repository;
-  - Mint deal metadata to an NFT in the [Opensea platform](https://opensea.io/), everyone can see it at any time
+  - Mint deal metadata to an NFT  the [Opensea platform](https://opensea.io/), everyone can see it at any time
 
 **How to retrieve it:**
   - Get all pieces of each snapshot from snapshot metadata
