@@ -4,7 +4,7 @@
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
 
 ## Introduction
-Chainsnap is a project for maintaining blockchain snapshots. This project enables the storing and retrieval of snapshots for blockchain projects including Aptos, Arbitrum, Avalanche, Binance Smart Chain, Ethereum, Filecoin, Near, Pocket, and Polygon. 
+Chainsnap is a project for maintaining blockchain snapshots. This project enables the storing and retrieval of snapshots for blockchain projects including Aptos, Arbitrum, Avalanche, Binance Smart Chain, Ethereum, Filecoin, Near, Pocket, Polygon, and Sui. 
 
 **Main Features:**
 
@@ -32,6 +32,7 @@ It is worth noting that all deal metadata will be mint to the Opensea platform t
  - [Near Snapshots](Near/README.md ':include')
  - [Pocket Snapshots](Pocket/README.md ':include')
  - [Polygon Snapshots](Polygon/README.md ':include')
+ - [Sui Snapshots](Sui/README.md ': include')
 
 ## Chainsnap Backup Frequency
 | Blockchain Network | Backup Frequency |
@@ -45,3 +46,4 @@ It is worth noting that all deal metadata will be mint to the Opensea platform t
 | Near | Weekly |
 | Pocket | Monthly |
 | Polygon | Weekly |
+| Sui | Weeely |
