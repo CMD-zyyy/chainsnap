@@ -46,4 +46,4 @@ It is worth noting that all deal metadata will be mint to the Opensea platform t
 | Near | Weekly |
 | Pocket | Monthly |
 | Polygon | Weekly |
-| Sui | Weeely |
+| Sui | Weekly |
